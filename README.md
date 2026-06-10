@@ -1,2 +1,2 @@
-# expence-tracker-
-Hi, I'm Aman Kumar, a Mining Engineering undergraduate at NIT Rourkela with a strong interest in technology, programming, and problem-solving. I enjoy building projects, exploring software development, and continuously learning new skills. This portfolio showcases my work, projects, and journey as I grow as an engineer and developer.
+Expense Tracker | HTML, CSS, JavaScript, Node.js, MongoDB, Chart.js
+Developed a full-stack Expense Tracker application to manage personal finances efficiently. Implemented RESTful APIs using Node.js and Express for expense management, designed MongoDB schemas with Mongoose, and integrated Chart.js for visualizing spending patterns. Added category-based filtering, expense tracking, and an interactive dashboard with responsive UI.
